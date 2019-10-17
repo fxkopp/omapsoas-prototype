@@ -1,0 +1,11 @@
+PSOAS Dark Grey: #3C3B3C
+PSOAS Light Grey: grey
+PSOAS Green: #37B322
+PSOAS Green hover: #2f9a1d
+PSOAS White (Text color on grey): #fafafa
+PSOAS Orange: #E8703B
+PSOAS Blue1: #1347B2
+PSOAS Blue2: #28417F
+PSOAS Black: #0a0a0a
+
+http://www.entypo.com/
