@@ -18,5 +18,7 @@ module.exports = {
   corePlugins: {
     tableLayout: false,
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/custom-forms')
+  ],
 }
